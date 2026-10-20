@@ -1,0 +1,20 @@
+{
+  "id": "/Ons-gezin/",
+  "name": "Ons Gezin",
+  "short_name": "Ons Gezin",
+  "description": "Onze gezinsplanner met lessen en gezinsactiviteiten",
+  "lang": "nl",
+  "start_url": "/Ons-gezin/",
+  "scope": "/Ons-gezin/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#faf7f2",
+  "icons": [
+    {
+      "src": "ons-gezin-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
